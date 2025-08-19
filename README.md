@@ -104,10 +104,7 @@ You’ll see the plots similar to the screenshots above.
 2. Create your feature branch (`git checkout -b feature/my-feature`)  
 3. Commit changes (`git commit -m 'Add my feature'`)  
 4. Push to branch (`git push origin feature/my-feature`)  
-5. Open a Pull Request 🚀  
+5. Open a Pull Request  
 
 ---
 
-## 📜 License  
-
-This project is licensed under the **MIT License** – feel free to use, modify, and distribute.  
